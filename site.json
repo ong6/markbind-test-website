@@ -12,8 +12,7 @@
     "*.njk",
     ".git/*"
   ],
-  "pages": [
-    {
+  "pages": [{
       "src": "index.md",
       "title": "Landing Page"
     },
@@ -23,5 +22,8 @@
   ],
   "deploy": {
     "message": "Site Update."
-  }
+  },
+  "plugins": [
+    "codeBlockCopyButtons"
+  ]
 }
