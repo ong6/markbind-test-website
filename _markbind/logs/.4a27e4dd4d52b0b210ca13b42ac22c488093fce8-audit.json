@@ -19,6 +19,16 @@
             "date": 1642080544806,
             "name": "_markbind\\logs\\markbind-2022-01-13.log",
             "hash": "8cc555baac30b886e1fcc66ac0509c15"
+        },
+        {
+            "date": 1642226612516,
+            "name": "_markbind\\logs\\markbind-2022-01-15.log",
+            "hash": "581413bfb2c6ad4fdac04b8c3617f1c7"
+        },
+        {
+            "date": 1643685923990,
+            "name": "_markbind\\logs\\markbind-2022-02-01.log",
+            "hash": "9b2dd8d863d67d7faf8e6f78ad2b9347"
         }
     ]
 }
