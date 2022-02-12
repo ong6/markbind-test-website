@@ -1,0 +1,9 @@
+2022-02-01T03:25:24.130Z - info: Website generation started at 11:25:23 am
+2022-02-01T03:25:24.776Z - info: Building assets...
+2022-02-01T03:25:24.891Z - info: Assets built
+2022-02-01T03:25:24.892Z - info: Generating pages...
+2022-02-01T03:25:25.132Z - info: Pages built
+2022-02-01T03:25:26.256Z - info: Site data built
+2022-02-01T03:25:26.256Z - info: Website generation complete! Total build time: 2.263s
+2022-02-01T03:25:26.289Z - info: Serving "D:\Development\markbind\markbind-test\_site" at http://127.0.0.1:8080
+2022-02-01T03:25:26.290Z - info: Press CTRL+C to stop ...
